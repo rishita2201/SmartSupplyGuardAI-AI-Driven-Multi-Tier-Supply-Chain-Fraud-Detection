@@ -1,0 +1,7 @@
+transaction_id,supplier_id,product_id,quantity,price,timestamp,status
+1,SUP001,PRD001,100,5000,2026-02-01 10:00,delivered
+2,SUP002,PRD002,50,3000,2026-02-02 11:00,delivered
+3,SUP003,PRD003,200,10000,2026-02-02 12:00,delivered
+4,SUP002,PRD001,10,500,2026-02-03 13:00,delivered
+5,SUP004,PRD004,1000,50000,2026-02-04 14:00,delivered
+6,SUP003,PRD003,150,7500,2026-02-05 15:00,delivered
